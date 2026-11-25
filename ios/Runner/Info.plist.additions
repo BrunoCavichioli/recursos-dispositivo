@@ -1,0 +1,8 @@
+Adicione estas chaves dentro do dict principal do ios/Runner/Info.plist:
+
+<key>NSCameraUsageDescription</key>
+<string>O aplicativo precisa acessar a câmera para tirar sua foto de perfil.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>O aplicativo precisa acessar a galeria para selecionar sua foto de perfil.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>O aplicativo usa sua localização para exibir coordenadas GPS.</string>
